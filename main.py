@@ -75,7 +75,3 @@ Python basics covering functions, lambda functions and list comprehensions
 
 
 
-libraies
-pandas
-numpy
-
